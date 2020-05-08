@@ -1,0 +1,18 @@
+h1{
+    float: left;
+    text-align: left;
+    font-size: 1.8rem;
+    margin-left: 20px;
+    margin-top: 0;
+    font-weight: 600;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    text-align: right;
+    margin-right: 20px;
+    color: rgba(0, 0, 0, 0.722);
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: 400;
+    font-family: SansRoundedC,Ubuntu,Roboto;
+}

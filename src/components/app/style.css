@@ -1,0 +1,10 @@
+.appList{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.panel{
+    max-width: 1000px;
+    position: relative;
+    float: none;
+    height: 60px;
+}

@@ -1,0 +1,22 @@
+.button{
+    position: absolute;
+    top: -20px;
+    right: 0;
+}
+
+.active{
+    margin: 20px 0;
+    padding: 6.5px 20px;
+    font-size: 1.1rem;
+    background: rgb(19, 73, 252);
+    border: 1px solid rgb(19, 73, 252);
+    color: #ffffff;
+}
+.noActive{
+    margin: 20px 0;
+    padding: 6.5px 20px;
+    font-size: 1.1rem;
+    background: transparent;
+    border: 1px solid silver;
+    color: black;
+}

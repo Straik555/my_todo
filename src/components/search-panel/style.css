@@ -1,0 +1,15 @@
+.searchInp{
+    width: 763px;
+    margin: 0;
+    height: 32px;
+    float: left;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid silver;
+}
+.searchInp::placeholder{
+    padding-left: 2px;
+}

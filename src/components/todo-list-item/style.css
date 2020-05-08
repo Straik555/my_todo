@@ -1,0 +1,47 @@
+span button{
+    margin: 0;
+}
+.btn-succes{
+    position: absolute;
+    top: 4px;
+    right: 10px;
+    padding: 8px 15px;
+    border: 1.5px solid rgb(4, 184, 34); 
+    border-radius: 5px;
+}
+.btn-succes i{
+    color:  rgb(4, 184, 34);
+}
+.btn-danger{
+    position: absolute;
+    top: 4px;
+    right: 60px;
+    padding: 8px 10px;
+    border: 1.5px solid rgb(185, 10, 24); 
+    border-radius: 5px;
+}
+.btn-danger i{
+    color: rgb(185, 10, 24);
+}
+span button:hover{
+    cursor: pointer;
+}
+.btn-succes:hover{
+    background: rgb(4, 184, 34);
+}
+.btn-succes:hover i{
+    color:  #ffffff;
+}
+.btn-danger:hover{
+    background: rgb(185, 10, 24);
+}
+.btn-danger:hover i{
+    color:  #ffffff;
+}
+.span.done{
+    text-decoration: line-through;
+}
+.span.important{
+    font-weight: 700;
+    color: dodgerblue;
+}
